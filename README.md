@@ -1,5 +1,5 @@
 # Company-management
-The code to manage account of candidates and directors.
+The code to manage account of candidates and directors by using Java.
 
 ## Function
 The code ensures the following features:
